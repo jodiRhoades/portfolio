@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    text-align: auto;
+}
+
+#head-box {
+    overflow: auto;
+    clear: auto;
+    margin:0 auto;   
+    padding:0;            
+    width: 960px;
+    border: 2
+    }
+
+    #logo {
+        color:white;
+        background-color: #4aaaa5;
+        width: 28%;
+        font-family: Georgia, Times, Times New Roman, serif;
+        font-size: 25px; 
+        font-weight: bold;       
+        padding: 35px;
+        float: left;                        
+        }
+
+    #nav {
+        color: #777777;
+        font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+        width: 50%;
+        float: right;
+        padding-top: 40px;
+        margin: 0;     
+        word-spacing: 15px;
+        text-align: right;                     
+    }
+
+    #nav a{
+        text-decoration: none;
+        color: #777777;        
+    }
+    
+#background {
+    width:100%;    
+    height: auto;
+    margin: 0;
+    background-image: url(../Images/brickwall.png);
+    padding: 40px;
+    }
+
+#main-content {
+    
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    width: 960px;
+    border: 1px solid #777777;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: white;
+    }
+
+#headshot {
+    width: 235px;
+    height: 350px;
+    float: left;
+    margin: 10px;
+    }
+
+
+#portfolio {
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 2px solid;
+    border-bottom-color: #777777;
+    font-size: 25px;
+    font-weight: bold;
+    }
+
+
+html {
+    position: relative;
+    min-height: 100%;
+    }
+
+#footer {
+    position: absolute;
+    background-color: #666666;    
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0;
+    color: white;    
+    border-top: 8px solid #4aaaa5;
+    padding:25;
+    }
+
+#footer p{
+    margin-top: 40px;
+}
