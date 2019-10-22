@@ -152,23 +152,13 @@ html, body {
 
 
 #footer {
-position: absolute;
 background-color: #666666;    
 text-align: center;
 width: 100%;
-bottom: 0;
-left: 0;
 color: white;    
 border-top: 8px solid #4aaaa5;
 padding:25;
 height:65px;
 margin-top: 25px;
 }
-
-#footer p{
-    margin-top: 35px;
-
-    }
-
-
 

@@ -8,7 +8,7 @@ Each page represents multiple techniques. I'll share the highlights with each.
 
 On the "About" page, it was about starting from scratch and learning how to position the background, the main content and adding a navigation bar and footer.
 
-The challenges with the "About" page mostlyy the footer.  At one point and after a lot of work I thought I had it. How rewarding, right? No, I was told that it wsan't "sticky" per the assignment.  So then I go back in and atttempt to change things but ended up interferring with my main content formatting. As a beginner, I have no clue what i messed up but it took the better part of my day trying to clean up my mess just to finish the footer the right way.  
+The challenges with the "About" page mostly the footer.  At one point and after a lot of work I thought I had it. How rewarding, right? No, I was told that it wsan't "sticky" per the assignment.  So then I go back in and atttempt to change things but ended up interferring with my main content formatting. As a beginner, I have no clue what i messed up but it took the better part of my day trying to clean up my mess just to finish the footer the right way.  
 
 My favorite part of the ABout page was learning the postioning.  Adding padding, margins and borders.
 
