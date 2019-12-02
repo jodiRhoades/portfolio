@@ -5,104 +5,94 @@
 <head>
     <title>Jodi Rhoades Portfolio</title>
     <meta charset="UTF-8">
-
     <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 </head>
 
 <body>
+    <!--Header Section/Top Row-->
+    <div class="navBar">
+        <section id="head-box">
+            <!--Logo-->
+            <div id="logo">Jodi Rhoades</div>
 
+            <!--Navigation/ About- Portfolio- Contact-->
+            <div id="nav">
+                <a href="index.html">About</a> &vert;
+                <a href="portfolio.html">Portfolio</a> &vert;
+                <a href="contact.html">Contact</a>
+            </div>
+        </section>
+    </div>
     <div class="wrapper">
-        <!--Header Section/Top Row-->
-
-        <div class="navBar">
-            <section id="head-box">
-                <!--Logo-->
-                <div id="logo">Jodi Rhoades</div>
-
-                <!--Navigation/ About- Portfolio- Contact-->
-                <div id="nav">
-                    <a href="index.html">About</a> &vert;
-                    <a href="portfolio.html">Portfolio</a> &vert;
-                    <a href="contact.html">Contact</a>
-                </div>
-            </section>
-        </div>
-
         <Section id="main-content" class="clearfix">
 
             <!--The Main Body-->
             <!--Header-->
             <h1 id="portfolio">Portfolio</h1>
 
-            <!--Gallery-->
-
-            <div>
+            <!--Gallery-->         
 
                 <!--This this the section of boxes-->
-                
-                <div id="wrapper">    
-                               
 
-                    <div id="hangman">
-                        <a href="#1">
-                        <img id="nerdwithtablet" src="assets\images\nerdwithtablet.jpg" class="galleryPic">
-                        
-                        <div class="overlay">
-                            Hangman
+                <div id="wrapper">  
+                  <div class="row"></div>
+                    <div class="col-lg12">
+
+                        <div class="card" style="width: 18rem;">
+                                <img src="assets\images\passwordGenerator2.png" class="card-img-top" alt="password generator">
+                                <div class="card-body">
+                                    <h5 class="card-title">Password Generator</h5>                                    
+                                    <a href="https://odiejo.github.io/PasswordGenerator/" class="btn btn-primary" target="_blank" >Link</a>
+                                </div>
                         </div>
-                        </a>
-                    </div>
-                        
-                    <div class="triviagame">
-                        <a href="#1">
-                        <img id="triviagame" src="assets\images\imageQuestionMarks.png" class="galleryPic">
 
-                        <div class="overlay">
-                                Trivia Game
+                        <div class="card" style="width: 18rem;">
+                            <img src="assets\images\screenshotQuiz.png" class="card-img-top" alt="Quiz Game">
+                            <div class="card-body">
+                                <h5 class="card-title">Quiz Game</h5>                                    
+                                <a href="https://odiejo.github.io/quizGame/" class="btn btn-primary" target="_blank">Link</a>
+                            </div>
                         </div>
-                        </a>    
-                    </div>
-                    
-                    <div class="rockpapersciccors">
-                            <a href="#1">
-                        <img id="rockpapersciccors" src="assets\images\rockpapersiccors.jpg" class="galleryPic">
 
-                        <div class="overlay">
-                                Rock Paper Scissors
+                        <div class="card" style="width: 18rem;">
+                            <img src="assets\images\screenshotPlanner.png" class="card-img-top" alt="Day Planner">
+                            <div class="card-body">
+                                <h5 class="card-title">Day Planner</h5>                                    
+                                <a href="https://odiejo.github.io/planner/" class="btn btn-primary" target="_blank">Link</a>
+                            </div>
                         </div>
-                        </a>
-    
-                    </div>
-                        
-                    <div class="rpggame">
-                            <a href="#1">
-                        <img id="rpggame" src="assets\images\dice.jpg" class="galleryPic">
 
-                        <div class="overlay">
-                                RPG Game
+                        <div class="card" style="width: 18rem;">
+                            <img src="assets\images\screenShotWetherApp.jpg" class="card-img-top" alt="Weather App">
+                            <div class="card-body">
+                                <h5 class="card-title">Weather App</h5>                                    
+                                <a href="https://odiejo.github.io/weather-app/" class="btn btn-primary" target="_blank">Link</a>
+                            </div>
                         </div>
-                        </a>
-                    </div>
-                    
-                    <div class="rutgersinfowidget">
-                            <a href="#1">
-                        <img id="rutgersinfowidget" src="assets\images\gears.png" class="galleryPic">
 
-                        <div class="overlay">
-                                Rutgers Info Widget
+                        <div class="card" style="width: 18rem;">
+                            <img src="assets\images\Image-Coming-Soon-Placeholder.png" class="card-img-top" alt="password generator">
+                            <div class="card-body">
+                                <h5 class="card-title">Coming Soon</h5>                                    
+                                <a href="#" class="btn btn-primary" target="_blank">Link</a>
+                            </div>
                         </div>
-                        </a>
+
+                        <div class="card" style="width: 18rem;">
+                            <img src="assets\images\Image-Coming-Soon-Placeholder.png" class="card-img-top" alt="password generator">
+                            <div class="card-body">
+                                <h5 class="card-title">Coming Soon</h5>                                    
+                                <a href="#" class="btn btn-primary" target="_blank">Link</a>
+                            </div>
+                        </div>
                     </div>
-
-                </div>
-            </div>
-
         </Section>
     </div>
 
-    </div>
+    
     <!--Footer-->
     <div id="footer">
         <p>Copyright &copy; Jodi Rhoades</p>
