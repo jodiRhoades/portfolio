@@ -10,15 +10,17 @@ On the "About" page, it was about starting from scratch and learning how to posi
 
 The challenges with the "About" page mostly the footer.  At one point and after a lot of work I thought I had it. How rewarding, right? No, I was told that it wsan't "sticky" per the assignment.  So then I go back in and atttempt to change things but ended up interferring with my main content formatting. As a beginner, I have no clue what i messed up but it took the better part of my day trying to clean up my mess just to finish the footer the right way.  
 
-My favorite part of the ABout page was learning the postioning.  Adding padding, margins and borders.
+My favorite part of the About page was learning the postioning.  Adding padding, margins and borders.
 
 Once the basic format was created, it was re-used for the Portfolio and Contact page.
 
 I did the "Contact" page next.  I rather enjoyed learning about forms and all the fun things that can be done with them.  The challenge with this page getting spacing right. I know I just touched the tip of the iceberg with forms but I look forward to learning more.
 
-The "Portfolio" page, well, it is my nemesis!!  I couldn't get all the spacing or the overlay to work.  It is an incomplete work.  I would have pushed this out for contributions if I could have.  This was mind blowing and asked for help multiple times but still stand directionless.  
+The "Portfolio" page, well, it is my nemesis!!  I couldn't get all the spacing or the overlay to work.  This was mind blowing and asked for help multiple times.  
 
 Eventually, they will link and all my lovely projects will present in style and class. ;)
+
+Here's a link https://odiejo.github.io/portfolio/
 
 ### Credits 
 
