@@ -118,7 +118,7 @@ html, body {
 }
      
 #headshot {
-    width: 235px;
+    width: 35%;
     height: 350px;
     float: left;
     margin:20px 20px 10px 10px;
@@ -142,7 +142,7 @@ html, body {
     font-weight:bold;
     }
 
-    input {
+    input {%
         width:100%;
     }
     
