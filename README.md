@@ -20,7 +20,7 @@ The "Portfolio" page, well, it is my nemesis!!  I couldn't get all the spacing o
 
 Eventually, they will link and all my lovely projects will present in style and class. ;)
 
-Here's a link https://odiejo.github.io/portfolio/
+Here's a link https://jodirhoades.github.io/portfolio/
 
 ### Credits 
 
