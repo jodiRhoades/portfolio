@@ -172,11 +172,12 @@ html, body {
  
 .card {
     margin: 60px 60px 60px 85px;
-    float: left;
+    float: left;    
 }
 .card-body {
-    background-color: #777777;
-    color:  white;    
+    background-color:#AAB7B8;
+    color:  white;  
+    text-align: center;        
 }
 .galleryPic{
     width:300px;
@@ -200,4 +201,12 @@ margin-top: auto;
 h4 {
     color: white;
 }
-
+#skillHeader {
+  text-align: center;
+}
+.icons {  
+  padding-right: 40px;    
+}
+#iconAlign {
+  margin-left: 20%;
+}
