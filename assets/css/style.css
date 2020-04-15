@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     }
+
 html {
     position: relative;
     /* min-height: 100%; */
@@ -44,7 +45,7 @@ html, body {
     display: inline-block;
     padding: 35px 10px 13px 100px;
     text-decoration: none;
-    color: #4aaaa5;    
+    color: #6fd6d1;    
   }
   
   .nav > .nav-links > a:hover {
@@ -62,21 +63,25 @@ html, body {
       right: 10px;
       top: 25px;
     }
+
     .nav > .nav-btn > label {
       display: inline-block;
       width: 50px;
       height: 50px;
       padding: 13px;
     }
+
     .nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
       background-color: rgba(0, 0, 0, 0.3);
     }
+
     .nav > .nav-btn > label > span {
       display: block;
       width: 25px;
       height: 10px;
-      border-top: 2px solid #4aaaa5;
+      border-top: 2px solid #6fd6d1;
     }
+
     .nav > .nav-links {
       position: absolute;
       display: block;
@@ -88,17 +93,21 @@ html, body {
       top: 50px;
       left: 0px;
     }
+
     .nav > .nav-links > a {
       display: block;
       width: 100%;
     }
+
     .nav > #nav-check:not(:checked) ~ .nav-links {
       height: 0px;
     }
+
     .nav > #nav-check:checked ~ .nav-links {
       height: calc(100vh - 50px);
       overflow-y: auto;
     }
+
   }
         
 #main-content {
@@ -125,7 +134,7 @@ html, body {
     }
 
 #about {
-    color: #4aaaa5;
+    color: #6fd6d1;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-bottom: 2px solid;
     border-bottom-color: #777777;
@@ -134,7 +143,7 @@ html, body {
     }
 
 #contact {
-    color: #4aaaa5;
+    color: #6fd6d1;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-bottom: 2px solid;
     border-bottom-color: #777777;
@@ -142,7 +151,7 @@ html, body {
     font-weight:bold;
     }
 
-    input {%
+    input {
         width:100%;
     }
     
@@ -151,11 +160,11 @@ html, body {
     }
      
     #button {
-        background-color: #4aaaa5;
+        background-color: #6fd6d1;
     }    
 
 #portfolio {
-    color: #4aaaa5;
+    color: #6fd6d1;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     border-bottom: 2px solid;
     border-bottom-color: #777777;
@@ -174,25 +183,26 @@ html, body {
     margin: 60px 60px 60px 85px;
     float: left;    
 }
+
 .card-body {
     background-color:#AAB7B8;
     color:  white;  
     text-align: center;        
 }
+
 .galleryPic{
     width:300px;
     height: 250px;
     float:left;
     margin: 30px;        
-}
-        
+}        
 
 #footer {
 background-color: #666666;    
 text-align: center;
 width: 100%;
 color: white;    
-border-top: 8px solid #4aaaa5;
+border-top: 8px solid #6fd6d1;
 padding: 10px;
 height: 65px;
 margin-top: auto;
@@ -201,12 +211,28 @@ margin-top: auto;
 h4 {
     color: white;
 }
+
 #skillHeader {
   text-align: center;
 }
+
 .icons {  
   padding-right: 40px;    
 }
 #iconAlign {
   margin-left: 20%;
 }
+
+.button {
+  background-color: #6fd6d1;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  margin: 5px !important;   
+}
+
+.button:hover{
+  background: #777777;
+}
+
