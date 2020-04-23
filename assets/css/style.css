@@ -161,6 +161,7 @@ html, body {
      
     #button {
         background-color: #6fd6d1;
+        border-radius: 5px;
     }    
 
 #portfolio {
